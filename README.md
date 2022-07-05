@@ -1,2 +1,2 @@
 ## Run
-**python who_am_i.py**
+**python3 who_am_i.py**
